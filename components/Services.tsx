@@ -5,27 +5,27 @@ const services = [
   {
     title: 'Wedding Photography',
     description: 'Capturing the essence of your big day with timeless cinematic shots.',
-    image: 'service-wedding.jpg' // Local file placeholder
+    image: '/images/service-wedding.jpg'
   },
   {
     title: 'Pre-Wedding Shoot',
     description: 'Romantic and creative outdoor sessions at scenic locations.',
-    image: 'service-prewedding.jpg' // Local file placeholder
+    image: '/images/service-prewedding.jpg'
   },
   {
     title: 'Birthday & Events',
     description: 'Vibrant coverage of parties, anniversaries, and corporate events.',
-    image: 'service-events.jpg' // Local file placeholder
+    image: '/images/service-events.jpg'
   },
   {
     title: 'Portrait & Studio',
     description: 'Professional headshots and artistic studio portraits.',
-    image: 'service-portrait.jpg' // Local file placeholder
+    image: '/images/service-portrait.jpg'
   },
   {
     title: 'Photo Editing',
     description: 'High-end post-processing and custom album design services.',
-    image: 'service-editing.jpg' // Local file placeholder
+    image: '/images/service-editing.jpg'
   }
 ];
 
